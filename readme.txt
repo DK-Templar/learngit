@@ -21,4 +21,4 @@ STL在<algorithm.h>中实现了对存储在vector/deque 中的元素进行堆操
 
 
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
