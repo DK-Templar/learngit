@@ -17,4 +17,8 @@ sizeof引用得到的是所指向对象的大小，而sizeof指针是得到指�
 heap并不属于STL容器组件，它分为 max heap 和min heap，在缺省情况下，max-heap是优先队列（priority queue）的底层实现机制。
 而这个实现机制中的max-heap实际上是以一个vector表现的完全二叉树（complete binary tree）。
 STL在<algorithm.h>中实现了对存储在vector/deque 中的元素进行堆操作的函数，包括make_heap, pop_heap, push_heap, sort_heap，
-对不愿自己写数据结构堆的C++选手来说，这几个算法函数很有用，详细解释可以参见： http://www.cplusplus.com/reference/algorithm/make_heap/
+对不愿自己写数据结构堆的C++选手来说，这几个算法函数很有用，详细解释可以参见： http://www.cplusplus.com/reference/algorithm/make_heap
+
+
+Git is a distributed version control system.
+Git is free software.
